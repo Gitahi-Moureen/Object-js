@@ -1,3 +1,3 @@
 ## Objects
-This file contains objects which is afundamental data type that represents a collection of properties.
+This file contains objects which is a fundamental data type that represents a collection of properties.
 
